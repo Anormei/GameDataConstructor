@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameDataConstructor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameDataConstructor_jar</output-path>
+    <root id="archive" name="GameDataConstructor.jar">
+      <element id="module-output" name="GameDataConstructor" />
+      <element id="dir-copy" path="$PROJECT_DIR$/ClassTemplates" />
+    </root>
+  </artifact>
+</component>
